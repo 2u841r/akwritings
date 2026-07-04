@@ -4,3 +4,4 @@ allowBuilds:
 minimumReleaseAgeExclude:
   - '@astrojs/starlight@0.41.3'
   - starlight-theme-mdbook@0.1.0
+  - starlight-theme-mdbook@0.1.1
