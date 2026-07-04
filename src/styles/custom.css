@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'SolaimanLipi';
+	src: url('/fonts/SolaimanLipiNormal.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+:root {
+	--sl-font: 'SolaimanLipi', sans-serif;
+}
